@@ -1,0 +1,5 @@
+name: Balcony lights
+entrypoint: balcony.toit
+triggers:
+  on_install: true
+  on_boot: true
