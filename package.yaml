@@ -1,4 +1,7 @@
 dependencies:
+  si7006:
+    url: github.com/toitware/toit-si7006
+    version: ^0.1.0
   solar_position:
     url: github.com/toitware/toit-solar-position
     version: ^0.0.3
