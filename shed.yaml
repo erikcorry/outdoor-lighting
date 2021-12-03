@@ -1,0 +1,5 @@
+name: Shed heater
+entrypoint: shed.toit
+triggers:
+  on_install: true
+  on_boot: true
